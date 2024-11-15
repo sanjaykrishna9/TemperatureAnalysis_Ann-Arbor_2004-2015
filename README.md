@@ -48,8 +48,8 @@ Create summary visualizations for 2015 temperature data near Ann Arbor, Michigan
 -Folium  
 
 # Usage
-1 Install libraries : pip install pandas
-                      python -m pip install folium
-                      python -m pip install -U matplotlib
+1 Install libraries : pip install pandas  
+                      python -m pip install folium  
+                      python -m pip install -U matplotlib  
 
 2 Run the Jupyter notebook to perform the analysis and visualize the results.
