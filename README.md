@@ -21,24 +21,24 @@ longitude:A geographic coordinate that specifies the east–west position of a p
 latitude:A geographic coordinate that specifies the north–south position of a point on the Earth's surface.
 
 # Task Overview
-*Record Temperature Visualization (2005–2014)
+*Record Temperature Visualization (2005–2014)  
 Generate a line graph showing the record high and low temperatures for each day of the year.
 Shade the area between record highs and lows.
 
-*2015 Anomalies Overlay
+*2015 Anomalies Overlay  
 Overlay a scatter plot of 2015 temperature data points (highs and lows) where the 2005–2014 record was broken.
 
-*Leap Day Handling
-Exclude leap day data (February 29) to ensure accurate day-to-day comparisons.
+*Leap Day Handling  
+Exclude leap day data (February 29) to ensure accurate day-to-day comparisons. 
 
-*Visualization Enhancements
-Add appropriate legends, axis labels, and titles to improve clarity.
+*Visualization Enhancements  
+Add appropriate legends, axis labels, and titles to improve clarity.  
 Remove unnecessary chart elements to reduce chart junk.
 
-*Station Mapping
+*Station Mapping  
 Visualize the locations of weather stations near Ann Arbor, Michigan, on a map.
 
-*2015 Temperature Summary
+*2015 Temperature Summary  
 Create summary visualizations for 2015 temperature data near Ann Arbor, Michigan.
 
 
