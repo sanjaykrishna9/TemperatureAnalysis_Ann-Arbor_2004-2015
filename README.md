@@ -16,8 +16,8 @@ element: Type of temperature data (TMAX for maximum, TMIN for minimum)
 value: Recorded temperature (tenths of degrees Celsius)   
 
 __BinSize.csv:__ Contains fields like 
-id: Station identification code  
-longitude:A geographic coordinate that specifies the east–west position of a point on the Earth's surface.
+id: Station identification code    
+longitude:A geographic coordinate that specifies the east–west position of a point on the Earth's surface.  
 latitude:A geographic coordinate that specifies the north–south position of a point on the Earth's surface.
 
 # Task Overview
