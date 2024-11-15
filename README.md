@@ -13,7 +13,8 @@ __temperature.csv:__ Contains daily temperature records with the following colum
 id: Station identification code  
 date: Date in DD-MM-YYYY format  
 element: Type of temperature data (TMAX for maximum, TMIN for minimum)  
-value: Recorded temperature (tenths of degrees Celsius) 
+value: Recorded temperature (tenths of degrees Celsius)   
+
 __BinSize.csv:__ Contains fields like 
 id: Station identification code  
 longitude:A geographic coordinate that specifies the east–west position of a point on the Earth's surface.
