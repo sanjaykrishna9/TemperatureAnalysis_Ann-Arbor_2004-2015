@@ -14,7 +14,7 @@ This project analyzes temperature data for Ann Arbor, Michigan in 2015 using his
 -Matplotlib
 -Folium  
 
-##Usage
+## Usage
 1 Install libraries : pip install pandas
                       python -m pip install folium
                       python -m pip install -U matplotlib
