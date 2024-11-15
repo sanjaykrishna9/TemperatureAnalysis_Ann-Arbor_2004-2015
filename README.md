@@ -10,8 +10,8 @@ This project analyzes temperature data for Ann Arbor, Michigan in 2015 using his
 
 
 ## Modules Used:
--Pandas
--Matplotlib
+-Pandas  
+-Matplotlib  
 -Folium  
 
 ## Usage
