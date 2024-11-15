@@ -2,11 +2,11 @@
 
 This project analyzes temperature data for Ann Arbor, Michigan in 2015 using historical data from the GHCN-Daily dataset. The analysis includes:
 
-1 Data preprocessing and cleaning.
-2 Visualization of record highs and lows for 2005-2014.
-3 Overlay of 2015 temperature data and breaks of 2005-2014 records.
-4 Identification and mapping of stations within 100 km of Ann Arbor.
-5 Plotting temperature trends for 2015 near Ann Arbor.
+1 Data preprocessing and cleaning.  
+2 Visualization of record highs and lows for 2005-2014.  
+3 Overlay of 2015 temperature data and breaks of 2005-2014 records.  
+4 Identification and mapping of stations within 100 km of Ann Arbor.  
+5 Plotting temperature trends for 2015 near Ann Arbor.  
 
 
 ## Modules Used:
